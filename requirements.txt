@@ -1,0 +1,17 @@
+
+# PyTorch with NVIDIA CUDA 12.6
+--extra-index-url https://download.pytorch.org/whl/cu126
+
+torch==2.13.0+cu126
+torchvision==0.28.0+cu126
+
+# Data science and visualization
+matplotlib
+numpy
+scikit-learn
+seaborn
+pandas
+
+# Jupyter Notebook
+ipykernel
+jupyterlab
